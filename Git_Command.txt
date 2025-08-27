@@ -10,4 +10,4 @@ git chekout main/master/laernJava   (to switch between branches)
 git checkout -b learnjava         (To create and switch directly to branch)
 git clone remote-url      (to clone the file into local)
 git pull   (To pull changes if any from the branch is multiple people working and mainiting the vrsion)
-git exit  
+git exit  (to exit the termial)
