@@ -8,5 +8,6 @@ git branch -m master main                (to rename local branch from master to 
 git push -u origin main                  (Push the renamed branch to the remote (like GitHub))
 git chekout main/master/laernJava   (to switch between branches)
 git checkout -b learnjava         (To create and switch directly to branch)
+git exit  (to exit the terminal)
 
 
